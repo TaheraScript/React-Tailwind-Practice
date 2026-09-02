@@ -1,0 +1,26 @@
+.test{
+    font-size: 120px;
+    font-weight: bold;
+    background-color: blueviolet;
+    color: bisque;
+}
+@media (max-width:800px){
+    .test{
+    font-size: 20px;
+    font-weight: normal;
+    background-color: rgb(186, 237, 60);
+    color: rgb(167, 109, 37);
+}
+}
+@media(min-width:400px) and (max-width:600px){
+    .test{
+    background-color:red;
+    color: black;
+    }
+}
+@media(min-width:1200px){
+    .test{
+        background-color:rgb(67, 188, 229);
+    color: rgb(238, 33, 33);
+    }
+}

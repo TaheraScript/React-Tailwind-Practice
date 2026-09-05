@@ -1,0 +1,4 @@
+/*4.
+ Write a short comparison (3–4 sentences) on when you would choose if/else vs ternary vs &&/|| in a real project. */
+
+ /* I'd use if/else when the logic is complex, involves multiple conditions, or needs to run before the JSX is returned — for example, computing a value or deciding between multiple possible outputs based on several branches, since if/else is best kept outside JSX for readability. I'd reach for the ternary operator (condition ? a : b) when I need a simple, inline either/or decision directly inside JSX, like choosing between two small pieces of UI or two string values. I'd use && when I only want to render something conditionally if a condition is true, and render nothing otherwise (like showing an error message only when error exists), since there's no "else" case needed. In general, the rule of thumb is: if/else for complex logic outside JSX, ternary for two-outcome decisions inside JSX, and && for simple show/hide conditions. */

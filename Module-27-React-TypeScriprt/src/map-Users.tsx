@@ -1,4 +1,4 @@
-import UserCard from "./map-usercard"
+import UserCard from "./map-Users-UserCard"
 
 interface User{
     name : string,

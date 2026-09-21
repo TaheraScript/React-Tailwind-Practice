@@ -1,0 +1,92 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImage": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Left-arm Orthodox",
+    "battingStyle": "Left-hand Bat",
+    "price": 200
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerImage": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm Fast Medium",
+    "battingStyle": "Left-hand Bat",
+    "price": 900
+  },
+  {
+    "playerName": "Litton Das",
+    "playerImage": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm Medium",
+    "battingStyle": "Right-hand Bat",
+    "price": 400
+  },
+  {
+    "playerName": "Taskin Ahmed",
+    "playerImage": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm Fast",
+    "battingStyle": "Right-hand Bat",
+    "price": 700
+  },
+  {
+    "playerName": "Mehidy Hasan Miraz",
+    "playerImage": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-arm Off Break",
+    "battingStyle": "Right-hand Bat",
+    "price": 100
+  },
+  {
+    "playerName": "Mushfiqur Rahim",
+    "playerImage": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm Medium",
+    "battingStyle": "Right-hand Bat",
+    "price": 500
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImage": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm Leg Break",
+    "battingStyle": "Right-hand Bat",
+    "price": 150
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImage": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm Off Break",
+    "battingStyle": "Right-hand Bat",
+    "price": 400
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerImage": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm Medium",
+    "battingStyle": "Right-hand Bat",
+    "price": 600
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerImage": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm Medium",
+    "battingStyle": "Right-hand Bat",
+    "price": 500
+  }
+]
